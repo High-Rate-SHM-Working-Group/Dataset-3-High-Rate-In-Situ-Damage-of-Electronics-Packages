@@ -1,0 +1,5 @@
+A few notes on the data:
+
+1) The units in the text file are [ ms g g um/m um/m um/m] where ms - milliseconds, g - acceleraOon unit (1 g = 9.8 m/s^2), um/m - microstrain
+2) In the presentation the data is filtered to 50kHz, but the data files have unfiltered data.
+3) in the presentation the internal accelerometer is mulOplied by -1 for comparison to the fixture accelerometer. This is because the internal accelerometer is mounted upside-down
