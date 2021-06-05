@@ -21,7 +21,7 @@ The electronic assembly is sensors as shown in figure 2 with:
 1. SG3 – bottom face of the bottom board
 
 <p align="center">
-<img src="images/figure_2.png" alt="drawing" width="600"/>
+<img src="images/figure_2.png" alt="drawing" width="500"/>
 </p>
 <p align="center">
 Figure 2: Sensor location for the three board electronic assembly.
@@ -41,6 +41,7 @@ Figure 3: Titanium fixture was used for testing the electronic package on the MT
 The unit was subjected to the test matrix below.
 
 <center>
+
 | Shock ID     | Peak level | Duration |
 | ----------- | ----------- | ----------- |
 | T04 | 6.5Kg | 0.305 msec
@@ -49,6 +50,7 @@ The unit was subjected to the test matrix below.
 | T06 | 21 Kg | 0.155 msec
 | T07 | 17.55 Kg | 0.13 msec
 | T08 | 29.5 Kg | 0.095 msec
+
 </center>
 
 The table gives an approximate peak level (data filtered at 50kHz) and approximate duration (defined as the width of the pulse at 10% of the peak). These were extracted from the fixture accelerometer (not the internal accel). The residual strain and accelerometer offset were removed (balanced out) before shock. Before the test series and after each shock, the unit was powered, voltage applied, and the voltage was discharged. The discharge timing and profile were recorded. The units
@@ -57,12 +59,11 @@ functioned properly until the final shock when voltage could not be applied corr
 Results for the first shock test (T04) are shown in figure 4. The PDF titled "High Rate In-Situ Damage_20200429_96TW-2020-0119.pdf" contains a more detailed discussion of the dataset.
 
 <p align="center">
-<img src="images/figure_4.png" alt="drawing" width="600"/>
+<img src="images/figure_4.png" alt="drawing" width="400"/>
 </p>
 <p align="center">
 Figure 4: Results for the first shock test (T04) and relative sensor locations.
 </p>
-## Notes
 
 This data set was developed at the AFRL to be shared with academic collaborators to provide relevant high-rate in-situ data on a highly instrumented electronic assembly under high-level mechanical shock for the development of real-time damage detection and remaining useful life (prognosis) algorithms on electronic systems. The PDF titled "High Rate In-Situ Damage_20200429_96TW-2020-0119.pdf" contains a more detailed discussion of the dataset. 
 
