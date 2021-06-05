@@ -7,7 +7,7 @@ The test article is a three-board electronic assembly with an RC circuit with a 
 
 
 <p align="center">
-<img src="images/figure_1.png" alt="drawing" width="600"/>
+<img src="images/figure_1.png" alt="drawing" width="500"/>
 </p>
 <p align="center">
 Figure 1: Experimental three board electronic assembly with an RC circuit.
@@ -21,7 +21,7 @@ The electronic assembly is sensors as shown in figure 2 with:
 1. SG3 – bottom face of the bottom board
 
 <p align="center">
-<img src="images/figure_2.png" alt="drawing" width="500"/>
+<img src="images/figure_2.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
 Figure 2: Sensor location for the three board electronic assembly.
@@ -32,7 +32,7 @@ The test fixture
 A titanium fixture was used for testing the electronic package on the MTS-66 drop tower. Each unit was unpowered when subjected to a shock. The shock profile was measured by an accelerometer mounted on the fixture and an EndevcoModel 72 accelerometer mounted on the middle board.
 
 <p align="center">
-<img src="images/figure_3.png" alt="drawing" width="400"/>
+<img src="images/figure_3.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
 Figure 3: Titanium fixture was used for testing the electronic package on the MTS-66 drop tower.
