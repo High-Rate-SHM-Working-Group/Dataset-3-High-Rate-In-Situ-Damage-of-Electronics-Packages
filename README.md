@@ -32,15 +32,13 @@ The test fixture
 A titanium fixture was used for testing the electronic package on the MTS-66 drop tower. Each unit was unpowered when subjected to a shock. The shock profile was measured by an accelerometer mounted on the fixture and an EndevcoModel 72 accelerometer mounted on the middle board.
 
 <p align="center">
-<img src="images/figure_3.png" alt="drawing" width="600"/>
+<img src="images/figure_3.png" alt="drawing" width="400"/>
 </p>
 <p align="center">
 Figure 3: Titanium fixture was used for testing the electronic package on the MTS-66 drop tower.
 </p>
 
 The unit was subjected to the test matrix below.
-
-<center>
 
 | Shock ID     | Peak level | Duration |
 | ----------- | ----------- | ----------- |
@@ -51,7 +49,6 @@ The unit was subjected to the test matrix below.
 | T07 | 17.55 Kg | 0.13 msec
 | T08 | 29.5 Kg | 0.095 msec
 
-</center>
 
 The table gives an approximate peak level (data filtered at 50kHz) and approximate duration (defined as the width of the pulse at 10% of the peak). These were extracted from the fixture accelerometer (not the internal accel). The residual strain and accelerometer offset were removed (balanced out) before shock. Before the test series and after each shock, the unit was powered, voltage applied, and the voltage was discharged. The discharge timing and profile were recorded. The units
 functioned properly until the final shock when voltage could not be applied correctly. T04repeat test was done immediately after T04 with no changes made to the unit or the test set up.
@@ -59,7 +56,7 @@ functioned properly until the final shock when voltage could not be applied corr
 Results for the first shock test (T04) are shown in figure 4. The PDF titled "High Rate In-Situ Damage_20200429_96TW-2020-0119.pdf" contains a more detailed discussion of the dataset.
 
 <p align="center">
-<img src="images/figure_4.png" alt="drawing" width="400"/>
+<img src="images/figure_4.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
 Figure 4: Results for the first shock test (T04) and relative sensor locations.
