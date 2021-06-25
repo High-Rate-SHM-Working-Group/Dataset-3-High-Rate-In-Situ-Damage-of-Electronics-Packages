@@ -67,7 +67,14 @@ This data set was developed at the AFRL to be shared with academic collaborators
 Published as DISTRIBUTION A: Approved for public release; distribution unlimited (96TW-2020-0119)
 
 
+Cite this data as: 
 
+Alain Beliveau, Jonathan Hong, Jacob Dodson, and Michael Davies, “Dataset-3-high-rate-in-situ-damage-of-electronicspackages,” 2020. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages
 
-
-
+@Misc{Beliveau2020Dataset3High,  
+  author = {Alain Beliveau and Jonathan Hong and Jacob Dodson and Michael Davies},  
+  title  = {Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages},  
+  year   = {2020},  
+  groups = {High-Rate-SHM-Working-Group},  
+  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages},  
+}  
