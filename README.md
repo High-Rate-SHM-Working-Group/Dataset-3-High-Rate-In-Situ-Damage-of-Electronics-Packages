@@ -1,7 +1,7 @@
-# High-Rate In Situ Damage of Electronics Packages
-Drop Tower shock tests of highly-instrumented electronics package
+# Dataset-3 High-Rate In Situ Damage of Electronics Packages
+Drop Tower shock tests of a highly-instrumented electronics package
 
-This data set provides a relevant high-rate in-situ data on a highly instrumented electronic assembly under high-level mechanical shock for the development of real-time damage detection and remaining useful life (prognosis) algorithms on electronic systems.
+This data set provides relevant high-rate in-situ data on a highly instrumented electronic assembly under high-level mechanical shock for the development of real-time damage detection and remaining useful life (prognosis) algorithms on electronic systems.
 
 The test article is a three-board electronic assembly with an RC circuit with a switch on the bottom board as shown in figure 1. The goal is the successful discharge of the capacitor. The functionality of the RC circuit was tested after each test.
 
@@ -10,10 +10,10 @@ The test article is a three-board electronic assembly with an RC circuit with a 
 <img src="images/figure_1.png" alt="drawing" width="500"/>
 </p>
 <p align="center">
-Figure 1: Experimental three board electronic assembly with an RC circuit.
+Figure 1: Experimental three-board electronic assembly with an RC circuit.
 </p>
 
-The electronic assembly is sensors as shown in figure 2 with:
+The electronic assembly includes sensors as shown in Figure 2 with:
 * Accelerometer - Endevco Model 72-60k glued to the top face of the middle board
 * Strain gages - HBM Model K-CLY4-0006-1-120-2-005-N
 1. SG1 – top face of the top board
@@ -24,7 +24,7 @@ The electronic assembly is sensors as shown in figure 2 with:
 <img src="images/figure_2.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
-Figure 2: Sensor location for the three board electronic assembly.
+Figure 2: Sensor location for the three-board electronic assembly.
 </p>
 
 The test fixture 
@@ -35,7 +35,7 @@ A titanium fixture was used for testing the electronic package on the MTS-66 dro
 <img src="images/figure_3.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
-Figure 3: Titanium fixture was used for testing the electronic package on the MTS-66 drop tower.
+Figure 3: A Titanium fixture was used for testing the electronic package on the MTS-66 drop tower.
 </p>
 
 The unit was subjected to the test matrix below.
@@ -50,8 +50,8 @@ The unit was subjected to the test matrix below.
 | T08 | 29.5 Kg | 0.095 msec
 
 
-The table gives an approximate peak level (data filtered at 50kHz) and approximate duration (defined as the width of the pulse at 10% of the peak). These were extracted from the fixture accelerometer (not the internal accel). The residual strain and accelerometer offset were removed (balanced out) before shock. Before the test series and after each shock, the unit was powered, voltage applied, and the voltage was discharged. The discharge timing and profile were recorded. The units
-functioned properly until the final shock when voltage could not be applied correctly. T04repeat test was done immediately after T04 with no changes made to the unit or the test set up.
+The table gives an approximate peak level (data filtered at 50 kHz) and approximate duration (defined as the width of the pulse at 10% of the peak). These were extracted from the fixture accelerometer (not the internal accel). The residual strain and accelerometer offset were removed (balanced out) before shock. Before the test series and after each shock, the unit was powered, voltage applied, and the voltage was discharged. The discharge timing and profile were recorded. The units
+functioned properly until the final shock, when voltage could not be applied correctly. T04 repeat test was done immediately after T04 with no changes made to the unit or the test setup.
 
 Results for the first shock test (T04) are shown in figure 4. The PDF titled "High Rate In-Situ Damage_20200429_96TW-2020-0119.pdf" contains a more detailed discussion of the dataset.
 
@@ -69,11 +69,11 @@ Published as DISTRIBUTION A: Approved for public release; distribution unlimited
 
 Cite this data as: 
 
-Alain Beliveau, Jonathan Hong, Jacob Dodson, and Michael Davies, “Dataset-3-high-rate-in-situ-damage-of-electronicspackages,” 2020. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages
+Alain Beliveau, Jonathan Hong, Jacob Dodson, and Michael Davies, “Dataset-3 High-rate In Situ Damage of Electronics Packages,” 2020. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages
 
 @Misc{Beliveau2020Dataset3High,  
   author = {Alain Beliveau and Jonathan Hong and Jacob Dodson and Michael Davies},  
-  title  = {Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages},  
+  title  = {Dataset-3 High-rate In Situ Damage of Electronics Packages},  
   year   = {2020},  
   groups = {High-Rate-SHM-Working-Group},  
   url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-3-High-Rate-In-Situ-Damage-of-Electronics-Packages},  
